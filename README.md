@@ -18,7 +18,8 @@
 
 Установите приложение, откройте карту и нажмите логотип TeamWits под списком маршей.
 Подключение происходит автоматически. Поддерживаемая версия игры: **1.5.160_201867**.
-Проверено на Steam; проверка официального клиента IGG в игре пока не выполнена.
+Проверено на Steam и официальном клиенте IGG. Если игра запущена от администратора,
+приложение запрашивает соответствующие права через стандартное подтверждение Windows.
 
 ## English
 
@@ -36,6 +37,7 @@ Map display settings for Viking Rise on Windows.
 
 Install the app, open the map and click the TeamWits logo below the march list.
 The app connects automatically. Supported game version: **1.5.160_201867**.
-Tested on Steam; live testing of the official IGG client is pending.
+Tested on Steam and the official IGG client. If the game runs as administrator,
+the app requests matching permissions through the standard Windows consent prompt.
 
 Автор / Author: [@BlackVelvet](https://t.me/BlackVelvet) · [Telegram](https://t.me/teamwitshub)
