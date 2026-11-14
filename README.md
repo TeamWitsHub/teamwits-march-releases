@@ -12,6 +12,9 @@
 - Облегчённые города: компактные иконки без ников и декоративных плашек.
 - Круглая кнопка TeamWits под списком маршей и сохранение настроек.
 - Автоматические обновления через меню в игре, без перезапуска игры.
+- Все 16 языков игры, включая сообщения обновления и подтверждение удаления.
+- Удаление из меню с подтверждением и восстановлением обычного вида игры.
+- Установщик RU/EN с выбором языка по Windows и ручным переключением.
 
 Установите приложение, откройте карту и нажмите логотип TeamWits под списком маршей.
 Подключение происходит автоматически. Поддерживаемая версия игры: **1.5.160_201867**.
@@ -27,9 +30,12 @@ Map display settings for Viking Rise on Windows.
 - Lightweight cities: compact icons without names or decorative nameplates.
 - A round TeamWits button below the march list, with saved preferences.
 - Automatic updates from the in-game menu, without restarting the game.
+- All 16 game languages, including update messages and uninstall confirmation.
+- Uninstall from the menu with confirmation and restoration of the normal game display.
+- A RU/EN installer that follows the Windows display language and allows switching.
 
 Install the app, open the map and click the TeamWits logo below the march list.
 The app connects automatically. Supported game version: **1.5.160_201867**.
 Tested on Steam; live testing of the official IGG client is pending.
 
-Автор / Author: [@BlackVekvet](https://t.me/BlackVekvet)
+Автор / Author: [@BlackVelvet](https://t.me/BlackVelvet) · [Telegram](https://t.me/teamwitshub)
