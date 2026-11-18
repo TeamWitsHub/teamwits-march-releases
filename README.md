@@ -6,8 +6,11 @@
 
 Настройки отображения карты Viking Rise для Windows.
 
-**Текущий выпуск: 1.4.11 beta.** Доступен всем в основном канале обновлений.
-Новое после 1.4.10: ХП и состояние атаки прямо в треугольниках. Одна настройка
+**Текущий выпуск: 1.4.12 beta.** Доступен всем в основном канале обновлений.
+🔧 Хотфикс кнопки настроек, которая могла сместиться в центр после смены аккаунта.
+Кнопка восстанавливает положение под списком маршей. Настройки сохраняются.
+
+В версии 1.4.11 добавлены ХП и состояние атаки прямо в треугольниках. Одна настройка
 действует на противников и NPC, включая нифлунгов. Включите «Треугольники маршей»
 и «ХП в треугольниках»; новая настройка по умолчанию выключена.
 
@@ -60,8 +63,11 @@ Sandboxie после закрытия изолированных экземпл�
 
 Map display settings for Viking Rise on Windows.
 
-**Current release: 1.4.11 beta.** Available to everyone in the main update channel.
-New since 1.4.10: HP and attack status inside march triangles. One setting covers
+**Current release: 1.4.12 beta.** Available to everyone in the main update channel.
+🔧 Hotfix for the settings button moving to the centre after switching accounts.
+The button restores its position below the march list. Your settings are preserved.
+
+Version 1.4.11 added HP and attack status inside march triangles. One setting covers
 enemies and NPCs, including Niflungs. Enable “March triangles” and “HP in triangles”;
 the new setting is off by default.
 
