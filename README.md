@@ -6,15 +6,21 @@
 
 Настройки отображения карты Viking Rise для Windows.
 
-**Текущий выпуск: 1.4.10 beta.** Доступен всем в основном канале обновлений.
-По сравнению с 1.3.1 добавлены настройки текстур и окружения для обычной карты,
-семейств КвК 1–10 и повторных сценариев, а установщик получил оформление
-в стиле TeamWits с фьордом и постоянно видимой панелью установки.
+**Текущий выпуск: 1.4.11 beta.** Доступен всем в основном канале обновлений.
+Новое после 1.4.10: ХП и состояние атаки прямо в треугольниках. Одна настройка
+действует на противников и NPC, включая нифлунгов. Включите «Треугольники маршей»
+и «ХП в треугольниках»; новая настройка по умолчанию выключена.
+
+Фиолетовый цвет обозначает вашу цель, красный — противника, атакующего ваш марш,
+две цветные половины — взаимную атаку. Остальные вражеские марши серо-синие,
+NPC без боя с вами оранжевые. Заливка уменьшается вместе с ХП, повторяя грани
+пирамидки; полный силуэт остаётся виден. При неизвестных ХП сохраняется обычная иконка.
 
 - Треугольники маршей при любом приближении; NPC отмечены оранжевым.
 - Сокращение декоративных эффектов, чисел урона и следов движения с сохранением меток и указателей атаки.
 - Выбор показа рамок своих и союзных героев.
-- Отдельный переключатель вражеских аватарок со штатными полосами ХП.
+- ХП в треугольниках противников и NPC, независимо от показа аватарок.
+- Отдельный переключатель вражеских и NPC-аватарок со штатными полосами ХП.
 - Облегчённые города: компактные иконки без ников и декоративных плашек.
 - Текстуры карты: «По игре», «Средние», «Низкие»; интерфейс остаётся чётким.
 - Отдельное сокращение декоративных частиц и анимаций окружения.
@@ -35,8 +41,8 @@
 установщик последнего релиза. Настройки сохранятся. Начиная с 1.3.1,
 обычный фоновый экземпляр может получать обновления и до подключения к игре.
 Для изменённой версии игры всё равно нужен совместимый выпуск March Display.
-ПКМ и перетаскивание на нифлунга проверены в Steam 1.5.170; живая проверка
-вражеских ХП в бою пока не выполнена.
+ПКМ, перетаскивание, уменьшение ХП и взаимная атака проверены на нифлунгах
+в Steam 1.5.170. Живая проверка ХП в PvP и массовом бою пока не выполнена.
 
 Новые графические настройки по умолчанию выключены. Вживую проверены обычная
 карта и КвК 8; другие семейства карт проверены по каталогам ресурсов и тестам.
@@ -54,15 +60,21 @@ Sandboxie после закрытия изолированных экземпл�
 
 Map display settings for Viking Rise on Windows.
 
-**Current release: 1.4.10 beta.** Available to everyone in the main update channel.
-New since 1.3.1: texture and scenery controls for the regular map, KvK 1–10 map
-families and repeat scenarios, plus a TeamWits-style installer with fjord artwork
-and persistent installation controls.
+**Current release: 1.4.11 beta.** Available to everyone in the main update channel.
+New since 1.4.10: HP and attack status inside march triangles. One setting covers
+enemies and NPCs, including Niflungs. Enable “March triangles” and “HP in triangles”;
+the new setting is off by default.
+
+Purple marks your target, red marks an enemy attacking your march, and two coloured
+halves indicate mutual combat. Other enemy marches are grey-blue; NPCs outside
+combat with you stay orange. The fill shrinks with HP and follows the pyramid's
+facets, while the full silhouette stays visible. Unknown HP keeps the normal icon.
 
 - March triangles at any zoom level, with orange NPC markers.
 - Reduce decorative effects, damage numbers and movement trails while keeping map markers and attack indicators.
 - Choose whether to keep your own and allied hero frames.
-- A separate toggle for enemy portraits with native HP bars.
+- HP inside enemy and NPC triangles, independently of portrait visibility.
+- A separate toggle for enemy and NPC portraits with native HP bars.
 - Lightweight cities: compact icons without names or decorative nameplates.
 - Map textures: Game, Medium or Low; the interface stays sharp.
 - Separate controls to reduce decorative particles and scenery animations.
@@ -83,8 +95,8 @@ If the icon disappeared in an older March Display after a game update, run the
 installer from the latest release. Your settings are preserved. Starting
 with 1.3.1, the normal background instance can receive updates before connecting
 to the game. A changed game version still requires a compatible March Display
-release. Right-click and drag-to-attack were tested on a Niflung in Steam 1.5.170;
-enemy HP updates during combat have not yet been tested in-game.
+release. Right-click, drag-to-attack, decreasing HP and mutual combat were tested
+on Niflungs in Steam 1.5.170. Live PvP HP and large battles remain untested.
 
 The new graphics options are off by default. Tested live on a regular map and
 KvK 8; other map families were checked through resource catalogues and tests.
